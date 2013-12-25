@@ -1,4 +1,4 @@
 wit
 ===
 
-javascript class
+javascript
